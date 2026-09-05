@@ -1,0 +1,8 @@
+C:\Users\Artur\source\repos\CPF\CPF\bin\Debug\CPF.exe.config
+C:\Users\Artur\source\repos\CPF\CPF\bin\Debug\CPF.exe
+C:\Users\Artur\source\repos\CPF\CPF\bin\Debug\CPF.pdb
+C:\Users\Artur\source\repos\CPF\CPF\obj\Debug\CPF.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\CPF\CPF\obj\Debug\CPF.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\CPF\CPF\obj\Debug\CPF.exe
+C:\Users\Artur\source\repos\CPF\CPF\obj\Debug\CPF.pdb
+C:\Users\Artur\source\repos\CPF\CPF\obj\Debug\CPF.exe.config
